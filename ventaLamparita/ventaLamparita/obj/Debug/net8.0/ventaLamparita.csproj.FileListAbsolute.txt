@@ -1,0 +1,14 @@
+C:\Users\alberto\Desktop\pas1317\curso\ventaLamparita\ventaLamparita\bin\Debug\net8.0\ventaLamparita.exe
+C:\Users\alberto\Desktop\pas1317\curso\ventaLamparita\ventaLamparita\bin\Debug\net8.0\ventaLamparita.deps.json
+C:\Users\alberto\Desktop\pas1317\curso\ventaLamparita\ventaLamparita\bin\Debug\net8.0\ventaLamparita.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\curso\ventaLamparita\ventaLamparita\bin\Debug\net8.0\ventaLamparita.dll
+C:\Users\alberto\Desktop\pas1317\curso\ventaLamparita\ventaLamparita\bin\Debug\net8.0\ventaLamparita.pdb
+C:\Users\alberto\Desktop\pas1317\curso\ventaLamparita\ventaLamparita\obj\Debug\net8.0\ventaLamparita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\curso\ventaLamparita\ventaLamparita\obj\Debug\net8.0\ventaLamparita.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\ventaLamparita\ventaLamparita\obj\Debug\net8.0\ventaLamparita.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\curso\ventaLamparita\ventaLamparita\obj\Debug\net8.0\ventaLamparita.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\ventaLamparita\ventaLamparita\obj\Debug\net8.0\ventaLamparita.dll
+C:\Users\alberto\Desktop\pas1317\curso\ventaLamparita\ventaLamparita\obj\Debug\net8.0\refint\ventaLamparita.dll
+C:\Users\alberto\Desktop\pas1317\curso\ventaLamparita\ventaLamparita\obj\Debug\net8.0\ventaLamparita.pdb
+C:\Users\alberto\Desktop\pas1317\curso\ventaLamparita\ventaLamparita\obj\Debug\net8.0\ventaLamparita.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\curso\ventaLamparita\ventaLamparita\obj\Debug\net8.0\ref\ventaLamparita.dll

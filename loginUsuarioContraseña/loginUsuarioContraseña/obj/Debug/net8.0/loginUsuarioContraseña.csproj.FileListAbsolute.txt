@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\loginUsuarioContraseña\loginUsuarioContraseña\bin\Debug\net8.0\loginUsuarioContraseña.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\loginUsuarioContraseña\loginUsuarioContraseña\bin\Debug\net8.0\loginUsuarioContraseña.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\loginUsuarioContraseña\loginUsuarioContraseña\bin\Debug\net8.0\loginUsuarioContraseña.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\loginUsuarioContraseña\loginUsuarioContraseña\bin\Debug\net8.0\loginUsuarioContraseña.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\loginUsuarioContraseña\loginUsuarioContraseña\bin\Debug\net8.0\loginUsuarioContraseña.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\loginUsuarioContraseña\loginUsuarioContraseña\obj\Debug\net8.0\loginUsuarioContraseña.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\loginUsuarioContraseña\loginUsuarioContraseña\obj\Debug\net8.0\loginUsuarioContraseña.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\loginUsuarioContraseña\loginUsuarioContraseña\obj\Debug\net8.0\loginUsuarioContraseña.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\loginUsuarioContraseña\loginUsuarioContraseña\obj\Debug\net8.0\loginUsuarioContraseña.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\loginUsuarioContraseña\loginUsuarioContraseña\obj\Debug\net8.0\loginUsuarioContraseña.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\loginUsuarioContraseña\loginUsuarioContraseña\obj\Debug\net8.0\loginUsuarioContraseña.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\loginUsuarioContraseña\loginUsuarioContraseña\obj\Debug\net8.0\refint\loginUsuarioContraseña.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\loginUsuarioContraseña\loginUsuarioContraseña\obj\Debug\net8.0\loginUsuarioContraseña.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\loginUsuarioContraseña\loginUsuarioContraseña\obj\Debug\net8.0\loginUsuarioContraseña.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\loginUsuarioContraseña\loginUsuarioContraseña\obj\Debug\net8.0\ref\loginUsuarioContraseña.dll

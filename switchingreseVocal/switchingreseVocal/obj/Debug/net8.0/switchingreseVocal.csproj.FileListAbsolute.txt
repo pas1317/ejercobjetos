@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\switchingreseVocal\switchingreseVocal\bin\Debug\net8.0\switchingreseVocal.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\switchingreseVocal\switchingreseVocal\bin\Debug\net8.0\switchingreseVocal.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\switchingreseVocal\switchingreseVocal\bin\Debug\net8.0\switchingreseVocal.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\switchingreseVocal\switchingreseVocal\bin\Debug\net8.0\switchingreseVocal.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\switchingreseVocal\switchingreseVocal\bin\Debug\net8.0\switchingreseVocal.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\switchingreseVocal\switchingreseVocal\obj\Debug\net8.0\switchingreseVocal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\switchingreseVocal\switchingreseVocal\obj\Debug\net8.0\switchingreseVocal.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\switchingreseVocal\switchingreseVocal\obj\Debug\net8.0\switchingreseVocal.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\switchingreseVocal\switchingreseVocal\obj\Debug\net8.0\switchingreseVocal.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\switchingreseVocal\switchingreseVocal\obj\Debug\net8.0\switchingreseVocal.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\switchingreseVocal\switchingreseVocal\obj\Debug\net8.0\switchingreseVocal.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\switchingreseVocal\switchingreseVocal\obj\Debug\net8.0\refint\switchingreseVocal.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\switchingreseVocal\switchingreseVocal\obj\Debug\net8.0\switchingreseVocal.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\switchingreseVocal\switchingreseVocal\obj\Debug\net8.0\switchingreseVocal.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\switchingreseVocal\switchingreseVocal\obj\Debug\net8.0\ref\switchingreseVocal.dll

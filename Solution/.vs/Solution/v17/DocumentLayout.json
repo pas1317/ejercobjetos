@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03E45B50-BEB8-483A-8877-EAD2D3136380}|StringLibrary\\StringLibrary.csproj|c:\\users\\alberto\\desktop\\pas1317\\ejercicios\\solution\\stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03E45B50-BEB8-483A-8877-EAD2D3136380}|StringLibrary\\StringLibrary.csproj|solutionrelative:stringlibrary\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43EA865-9AF4-4054-BE97-83ABC2CD2DBA}|ShowCase\\ShowCase.csproj|c:\\users\\alberto\\desktop\\pas1317\\ejercicios\\solution\\showcase\\showcase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B43EA865-9AF4-4054-BE97-83ABC2CD2DBA}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\showcase.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03E45B50-BEB8-483A-8877-EAD2D3136380}|StringLibrary\\UtilityLibraries.csproj|c:\\users\\alberto\\desktop\\pas1317\\ejercicios\\solution\\stringlibrary\\utilitylibraries.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{03E45B50-BEB8-483A-8877-EAD2D3136380}|StringLibrary\\UtilityLibraries.csproj|solutionrelative:stringlibrary\\utilitylibraries.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43EA865-9AF4-4054-BE97-83ABC2CD2DBA}|ShowCase\\ShowCase.csproj|c:\\users\\alberto\\desktop\\pas1317\\ejercicios\\solution\\showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B43EA865-9AF4-4054-BE97-83ABC2CD2DBA}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\Solution\\ShowCase\\Program.cs",
+              "RelativeDocumentMoniker": "ShowCase\\Program.cs",
+              "ToolTip": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\Solution\\ShowCase\\Program.cs",
+              "RelativeToolTip": "ShowCase\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:58:23.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UtilityLibraries.csproj",
+              "DocumentMoniker": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\Solution\\StringLibrary\\UtilityLibraries.csproj",
+              "RelativeDocumentMoniker": "StringLibrary\\UtilityLibraries.csproj",
+              "ToolTip": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\Solution\\StringLibrary\\UtilityLibraries.csproj",
+              "RelativeToolTip": "StringLibrary\\UtilityLibraries.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T18:50:32.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShowCase",
+              "DocumentMoniker": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\Solution\\ShowCase\\ShowCase.csproj",
+              "RelativeDocumentMoniker": "ShowCase\\ShowCase.csproj",
+              "ToolTip": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\Solution\\ShowCase\\ShowCase.csproj",
+              "RelativeToolTip": "ShowCase\\ShowCase.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-16T18:54:50.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\Solution\\StringLibrary\\Class1.cs",
+              "RelativeDocumentMoniker": "StringLibrary\\Class1.cs",
+              "ToolTip": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\Solution\\StringLibrary\\Class1.cs",
+              "RelativeToolTip": "StringLibrary\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T18:41:17.866Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

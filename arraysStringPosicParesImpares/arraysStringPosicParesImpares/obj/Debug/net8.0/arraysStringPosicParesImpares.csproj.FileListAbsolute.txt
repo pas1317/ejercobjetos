@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysStringPosicParesImpares\arraysStringPosicParesImpares\bin\Debug\net8.0\arraysStringPosicParesImpares.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysStringPosicParesImpares\arraysStringPosicParesImpares\bin\Debug\net8.0\arraysStringPosicParesImpares.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysStringPosicParesImpares\arraysStringPosicParesImpares\bin\Debug\net8.0\arraysStringPosicParesImpares.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysStringPosicParesImpares\arraysStringPosicParesImpares\bin\Debug\net8.0\arraysStringPosicParesImpares.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysStringPosicParesImpares\arraysStringPosicParesImpares\bin\Debug\net8.0\arraysStringPosicParesImpares.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysStringPosicParesImpares\arraysStringPosicParesImpares\obj\Debug\net8.0\arraysStringPosicParesImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysStringPosicParesImpares\arraysStringPosicParesImpares\obj\Debug\net8.0\arraysStringPosicParesImpares.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysStringPosicParesImpares\arraysStringPosicParesImpares\obj\Debug\net8.0\arraysStringPosicParesImpares.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysStringPosicParesImpares\arraysStringPosicParesImpares\obj\Debug\net8.0\arraysStringPosicParesImpares.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysStringPosicParesImpares\arraysStringPosicParesImpares\obj\Debug\net8.0\arraysStringPosicParesImpares.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysStringPosicParesImpares\arraysStringPosicParesImpares\obj\Debug\net8.0\arraysStringPosicParesImpares.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysStringPosicParesImpares\arraysStringPosicParesImpares\obj\Debug\net8.0\refint\arraysStringPosicParesImpares.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysStringPosicParesImpares\arraysStringPosicParesImpares\obj\Debug\net8.0\arraysStringPosicParesImpares.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysStringPosicParesImpares\arraysStringPosicParesImpares\obj\Debug\net8.0\arraysStringPosicParesImpares.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysStringPosicParesImpares\arraysStringPosicParesImpares\obj\Debug\net8.0\ref\arraysStringPosicParesImpares.dll

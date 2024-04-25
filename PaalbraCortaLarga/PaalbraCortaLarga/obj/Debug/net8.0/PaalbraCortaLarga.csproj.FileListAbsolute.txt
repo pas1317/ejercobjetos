@@ -1,0 +1,14 @@
+C:\Users\alberto\Desktop\pas1317\curso\PaalbraCortaLarga\PaalbraCortaLarga\bin\Debug\net8.0\PaalbraCortaLarga.exe
+C:\Users\alberto\Desktop\pas1317\curso\PaalbraCortaLarga\PaalbraCortaLarga\bin\Debug\net8.0\PaalbraCortaLarga.deps.json
+C:\Users\alberto\Desktop\pas1317\curso\PaalbraCortaLarga\PaalbraCortaLarga\bin\Debug\net8.0\PaalbraCortaLarga.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\curso\PaalbraCortaLarga\PaalbraCortaLarga\bin\Debug\net8.0\PaalbraCortaLarga.dll
+C:\Users\alberto\Desktop\pas1317\curso\PaalbraCortaLarga\PaalbraCortaLarga\bin\Debug\net8.0\PaalbraCortaLarga.pdb
+C:\Users\alberto\Desktop\pas1317\curso\PaalbraCortaLarga\PaalbraCortaLarga\obj\Debug\net8.0\PaalbraCortaLarga.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\curso\PaalbraCortaLarga\PaalbraCortaLarga\obj\Debug\net8.0\PaalbraCortaLarga.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\PaalbraCortaLarga\PaalbraCortaLarga\obj\Debug\net8.0\PaalbraCortaLarga.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\curso\PaalbraCortaLarga\PaalbraCortaLarga\obj\Debug\net8.0\PaalbraCortaLarga.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\PaalbraCortaLarga\PaalbraCortaLarga\obj\Debug\net8.0\PaalbraCortaLarga.dll
+C:\Users\alberto\Desktop\pas1317\curso\PaalbraCortaLarga\PaalbraCortaLarga\obj\Debug\net8.0\refint\PaalbraCortaLarga.dll
+C:\Users\alberto\Desktop\pas1317\curso\PaalbraCortaLarga\PaalbraCortaLarga\obj\Debug\net8.0\PaalbraCortaLarga.pdb
+C:\Users\alberto\Desktop\pas1317\curso\PaalbraCortaLarga\PaalbraCortaLarga\obj\Debug\net8.0\PaalbraCortaLarga.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\curso\PaalbraCortaLarga\PaalbraCortaLarga\obj\Debug\net8.0\ref\PaalbraCortaLarga.dll

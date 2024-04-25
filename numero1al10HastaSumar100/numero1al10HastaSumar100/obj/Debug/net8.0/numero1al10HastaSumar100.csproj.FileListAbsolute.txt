@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\numero1al10HastaSumar100\numero1al10HastaSumar100\bin\Debug\net8.0\numero1al10HastaSumar100.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\numero1al10HastaSumar100\numero1al10HastaSumar100\bin\Debug\net8.0\numero1al10HastaSumar100.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\numero1al10HastaSumar100\numero1al10HastaSumar100\bin\Debug\net8.0\numero1al10HastaSumar100.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\numero1al10HastaSumar100\numero1al10HastaSumar100\bin\Debug\net8.0\numero1al10HastaSumar100.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\numero1al10HastaSumar100\numero1al10HastaSumar100\bin\Debug\net8.0\numero1al10HastaSumar100.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\numero1al10HastaSumar100\numero1al10HastaSumar100\obj\Debug\net8.0\numero1al10HastaSumar100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\numero1al10HastaSumar100\numero1al10HastaSumar100\obj\Debug\net8.0\numero1al10HastaSumar100.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\numero1al10HastaSumar100\numero1al10HastaSumar100\obj\Debug\net8.0\numero1al10HastaSumar100.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\numero1al10HastaSumar100\numero1al10HastaSumar100\obj\Debug\net8.0\numero1al10HastaSumar100.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\numero1al10HastaSumar100\numero1al10HastaSumar100\obj\Debug\net8.0\numero1al10HastaSumar100.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\numero1al10HastaSumar100\numero1al10HastaSumar100\obj\Debug\net8.0\numero1al10HastaSumar100.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\numero1al10HastaSumar100\numero1al10HastaSumar100\obj\Debug\net8.0\refint\numero1al10HastaSumar100.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\numero1al10HastaSumar100\numero1al10HastaSumar100\obj\Debug\net8.0\numero1al10HastaSumar100.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\numero1al10HastaSumar100\numero1al10HastaSumar100\obj\Debug\net8.0\numero1al10HastaSumar100.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\numero1al10HastaSumar100\numero1al10HastaSumar100\obj\Debug\net8.0\ref\numero1al10HastaSumar100.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alberto\\Desktop\\pas1317\\pas1317\\MaxMinProm5Num\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB6532EB-1722-467C-9383-3611E471DF2D}|MaxMinProm5Num\\MaxMinProm5Num.csproj|c:\\users\\alberto\\desktop\\pas1317\\pas1317\\maxminprom5num\\maxminprom5num\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB6532EB-1722-467C-9383-3611E471DF2D}|MaxMinProm5Num\\MaxMinProm5Num.csproj|solutionrelative:maxminprom5num\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alberto\\Desktop\\pas1317\\pas1317\\MaxMinProm5Num\\MaxMinProm5Num\\Program.cs",
+              "RelativeDocumentMoniker": "MaxMinProm5Num\\Program.cs",
+              "ToolTip": "C:\\Users\\alberto\\Desktop\\pas1317\\pas1317\\MaxMinProm5Num\\MaxMinProm5Num\\Program.cs",
+              "RelativeToolTip": "MaxMinProm5Num\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T22:24:36.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\ConsoleApp1hospital\ConsoleApp1hospital\bin\Debug\net8.0\ConsoleApp1hospital.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\ConsoleApp1hospital\ConsoleApp1hospital\bin\Debug\net8.0\ConsoleApp1hospital.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\ConsoleApp1hospital\ConsoleApp1hospital\bin\Debug\net8.0\ConsoleApp1hospital.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\ConsoleApp1hospital\ConsoleApp1hospital\bin\Debug\net8.0\ConsoleApp1hospital.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\ConsoleApp1hospital\ConsoleApp1hospital\bin\Debug\net8.0\ConsoleApp1hospital.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\ConsoleApp1hospital\ConsoleApp1hospital\obj\Debug\net8.0\ConsoleApp1hospital.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\ConsoleApp1hospital\ConsoleApp1hospital\obj\Debug\net8.0\ConsoleApp1hospital.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\ConsoleApp1hospital\ConsoleApp1hospital\obj\Debug\net8.0\ConsoleApp1hospital.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\ConsoleApp1hospital\ConsoleApp1hospital\obj\Debug\net8.0\ConsoleApp1hospital.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\ConsoleApp1hospital\ConsoleApp1hospital\obj\Debug\net8.0\ConsoleApp1hospital.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\ConsoleApp1hospital\ConsoleApp1hospital\obj\Debug\net8.0\ConsoleApp1hospital.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\ConsoleApp1hospital\ConsoleApp1hospital\obj\Debug\net8.0\refint\ConsoleApp1hospital.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\ConsoleApp1hospital\ConsoleApp1hospital\obj\Debug\net8.0\ConsoleApp1hospital.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\ConsoleApp1hospital\ConsoleApp1hospital\obj\Debug\net8.0\ConsoleApp1hospital.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\ConsoleApp1hospital\ConsoleApp1hospital\obj\Debug\net8.0\ref\ConsoleApp1hospital.dll

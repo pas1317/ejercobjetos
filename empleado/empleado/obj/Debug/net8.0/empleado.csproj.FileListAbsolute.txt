@@ -1,0 +1,14 @@
+C:\Users\alberto\Desktop\pas1317\curso\empleado\empleado\bin\Debug\net8.0\empleado.exe
+C:\Users\alberto\Desktop\pas1317\curso\empleado\empleado\bin\Debug\net8.0\empleado.deps.json
+C:\Users\alberto\Desktop\pas1317\curso\empleado\empleado\bin\Debug\net8.0\empleado.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\curso\empleado\empleado\bin\Debug\net8.0\empleado.dll
+C:\Users\alberto\Desktop\pas1317\curso\empleado\empleado\bin\Debug\net8.0\empleado.pdb
+C:\Users\alberto\Desktop\pas1317\curso\empleado\empleado\obj\Debug\net8.0\empleado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\curso\empleado\empleado\obj\Debug\net8.0\empleado.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\empleado\empleado\obj\Debug\net8.0\empleado.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\curso\empleado\empleado\obj\Debug\net8.0\empleado.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\empleado\empleado\obj\Debug\net8.0\empleado.dll
+C:\Users\alberto\Desktop\pas1317\curso\empleado\empleado\obj\Debug\net8.0\refint\empleado.dll
+C:\Users\alberto\Desktop\pas1317\curso\empleado\empleado\obj\Debug\net8.0\empleado.pdb
+C:\Users\alberto\Desktop\pas1317\curso\empleado\empleado\obj\Debug\net8.0\empleado.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\curso\empleado\empleado\obj\Debug\net8.0\ref\empleado.dll

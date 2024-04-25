@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\swichtCalculadora\swichtCalculadora\bin\Debug\net8.0\swichtCalculadora.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\swichtCalculadora\swichtCalculadora\bin\Debug\net8.0\swichtCalculadora.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\swichtCalculadora\swichtCalculadora\bin\Debug\net8.0\swichtCalculadora.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\swichtCalculadora\swichtCalculadora\bin\Debug\net8.0\swichtCalculadora.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\swichtCalculadora\swichtCalculadora\bin\Debug\net8.0\swichtCalculadora.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\swichtCalculadora\swichtCalculadora\obj\Debug\net8.0\swichtCalculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\swichtCalculadora\swichtCalculadora\obj\Debug\net8.0\swichtCalculadora.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\swichtCalculadora\swichtCalculadora\obj\Debug\net8.0\swichtCalculadora.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\swichtCalculadora\swichtCalculadora\obj\Debug\net8.0\swichtCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\swichtCalculadora\swichtCalculadora\obj\Debug\net8.0\swichtCalculadora.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\swichtCalculadora\swichtCalculadora\obj\Debug\net8.0\swichtCalculadora.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\swichtCalculadora\swichtCalculadora\obj\Debug\net8.0\refint\swichtCalculadora.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\swichtCalculadora\swichtCalculadora\obj\Debug\net8.0\swichtCalculadora.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\swichtCalculadora\swichtCalculadora\obj\Debug\net8.0\swichtCalculadora.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\swichtCalculadora\swichtCalculadora\obj\Debug\net8.0\ref\swichtCalculadora.dll

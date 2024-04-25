@@ -1,0 +1,14 @@
+C:\Users\alberto\Desktop\pas1317\curso\ejercArrayControlFactura\ejercArrayControlFactura\bin\Debug\net8.0\ejercArrayControlFactura.exe
+C:\Users\alberto\Desktop\pas1317\curso\ejercArrayControlFactura\ejercArrayControlFactura\bin\Debug\net8.0\ejercArrayControlFactura.deps.json
+C:\Users\alberto\Desktop\pas1317\curso\ejercArrayControlFactura\ejercArrayControlFactura\bin\Debug\net8.0\ejercArrayControlFactura.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\curso\ejercArrayControlFactura\ejercArrayControlFactura\bin\Debug\net8.0\ejercArrayControlFactura.dll
+C:\Users\alberto\Desktop\pas1317\curso\ejercArrayControlFactura\ejercArrayControlFactura\bin\Debug\net8.0\ejercArrayControlFactura.pdb
+C:\Users\alberto\Desktop\pas1317\curso\ejercArrayControlFactura\ejercArrayControlFactura\obj\Debug\net8.0\ejercArrayControlFactura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\curso\ejercArrayControlFactura\ejercArrayControlFactura\obj\Debug\net8.0\ejercArrayControlFactura.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\ejercArrayControlFactura\ejercArrayControlFactura\obj\Debug\net8.0\ejercArrayControlFactura.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\curso\ejercArrayControlFactura\ejercArrayControlFactura\obj\Debug\net8.0\ejercArrayControlFactura.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\ejercArrayControlFactura\ejercArrayControlFactura\obj\Debug\net8.0\ejercArrayControlFactura.dll
+C:\Users\alberto\Desktop\pas1317\curso\ejercArrayControlFactura\ejercArrayControlFactura\obj\Debug\net8.0\refint\ejercArrayControlFactura.dll
+C:\Users\alberto\Desktop\pas1317\curso\ejercArrayControlFactura\ejercArrayControlFactura\obj\Debug\net8.0\ejercArrayControlFactura.pdb
+C:\Users\alberto\Desktop\pas1317\curso\ejercArrayControlFactura\ejercArrayControlFactura\obj\Debug\net8.0\ejercArrayControlFactura.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\curso\ejercArrayControlFactura\ejercArrayControlFactura\obj\Debug\net8.0\ref\ejercArrayControlFactura.dll

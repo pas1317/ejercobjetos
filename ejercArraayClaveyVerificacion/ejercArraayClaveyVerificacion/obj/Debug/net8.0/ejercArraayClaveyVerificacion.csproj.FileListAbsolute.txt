@@ -1,0 +1,14 @@
+C:\Users\alberto\Desktop\pas1317\curso\ejercArraayClaveyVerificacion\ejercArraayClaveyVerificacion\bin\Debug\net8.0\ejercArraayClaveyVerificacion.exe
+C:\Users\alberto\Desktop\pas1317\curso\ejercArraayClaveyVerificacion\ejercArraayClaveyVerificacion\bin\Debug\net8.0\ejercArraayClaveyVerificacion.deps.json
+C:\Users\alberto\Desktop\pas1317\curso\ejercArraayClaveyVerificacion\ejercArraayClaveyVerificacion\bin\Debug\net8.0\ejercArraayClaveyVerificacion.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\curso\ejercArraayClaveyVerificacion\ejercArraayClaveyVerificacion\bin\Debug\net8.0\ejercArraayClaveyVerificacion.dll
+C:\Users\alberto\Desktop\pas1317\curso\ejercArraayClaveyVerificacion\ejercArraayClaveyVerificacion\bin\Debug\net8.0\ejercArraayClaveyVerificacion.pdb
+C:\Users\alberto\Desktop\pas1317\curso\ejercArraayClaveyVerificacion\ejercArraayClaveyVerificacion\obj\Debug\net8.0\ejercArraayClaveyVerificacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\curso\ejercArraayClaveyVerificacion\ejercArraayClaveyVerificacion\obj\Debug\net8.0\ejercArraayClaveyVerificacion.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\ejercArraayClaveyVerificacion\ejercArraayClaveyVerificacion\obj\Debug\net8.0\ejercArraayClaveyVerificacion.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\curso\ejercArraayClaveyVerificacion\ejercArraayClaveyVerificacion\obj\Debug\net8.0\ejercArraayClaveyVerificacion.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\ejercArraayClaveyVerificacion\ejercArraayClaveyVerificacion\obj\Debug\net8.0\ejercArraayClaveyVerificacion.dll
+C:\Users\alberto\Desktop\pas1317\curso\ejercArraayClaveyVerificacion\ejercArraayClaveyVerificacion\obj\Debug\net8.0\refint\ejercArraayClaveyVerificacion.dll
+C:\Users\alberto\Desktop\pas1317\curso\ejercArraayClaveyVerificacion\ejercArraayClaveyVerificacion\obj\Debug\net8.0\ejercArraayClaveyVerificacion.pdb
+C:\Users\alberto\Desktop\pas1317\curso\ejercArraayClaveyVerificacion\ejercArraayClaveyVerificacion\obj\Debug\net8.0\ejercArraayClaveyVerificacion.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\curso\ejercArraayClaveyVerificacion\ejercArraayClaveyVerificacion\obj\Debug\net8.0\ref\ejercArraayClaveyVerificacion.dll

@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\estrutWhile8NumSumaYProm\estrutWhile8NumSumaYProm\bin\Debug\net8.0\estrutWhile8NumSumaYProm.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\estrutWhile8NumSumaYProm\estrutWhile8NumSumaYProm\bin\Debug\net8.0\estrutWhile8NumSumaYProm.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\estrutWhile8NumSumaYProm\estrutWhile8NumSumaYProm\bin\Debug\net8.0\estrutWhile8NumSumaYProm.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\estrutWhile8NumSumaYProm\estrutWhile8NumSumaYProm\bin\Debug\net8.0\estrutWhile8NumSumaYProm.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\estrutWhile8NumSumaYProm\estrutWhile8NumSumaYProm\bin\Debug\net8.0\estrutWhile8NumSumaYProm.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\estrutWhile8NumSumaYProm\estrutWhile8NumSumaYProm\obj\Debug\net8.0\estrutWhile8NumSumaYProm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\estrutWhile8NumSumaYProm\estrutWhile8NumSumaYProm\obj\Debug\net8.0\estrutWhile8NumSumaYProm.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\estrutWhile8NumSumaYProm\estrutWhile8NumSumaYProm\obj\Debug\net8.0\estrutWhile8NumSumaYProm.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\estrutWhile8NumSumaYProm\estrutWhile8NumSumaYProm\obj\Debug\net8.0\estrutWhile8NumSumaYProm.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\estrutWhile8NumSumaYProm\estrutWhile8NumSumaYProm\obj\Debug\net8.0\estrutWhile8NumSumaYProm.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\estrutWhile8NumSumaYProm\estrutWhile8NumSumaYProm\obj\Debug\net8.0\estrutWhile8NumSumaYProm.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\estrutWhile8NumSumaYProm\estrutWhile8NumSumaYProm\obj\Debug\net8.0\refint\estrutWhile8NumSumaYProm.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\estrutWhile8NumSumaYProm\estrutWhile8NumSumaYProm\obj\Debug\net8.0\estrutWhile8NumSumaYProm.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\estrutWhile8NumSumaYProm\estrutWhile8NumSumaYProm\obj\Debug\net8.0\estrutWhile8NumSumaYProm.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\estrutWhile8NumSumaYProm\estrutWhile8NumSumaYProm\obj\Debug\net8.0\ref\estrutWhile8NumSumaYProm.dll

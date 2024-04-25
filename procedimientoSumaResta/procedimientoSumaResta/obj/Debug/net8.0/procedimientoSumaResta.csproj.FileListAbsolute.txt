@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\procedimientoSumaResta\procedimientoSumaResta\obj\Debug\net8.0\procedimientoSumaResta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\procedimientoSumaResta\procedimientoSumaResta\obj\Debug\net8.0\procedimientoSumaResta.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\procedimientoSumaResta\procedimientoSumaResta\obj\Debug\net8.0\procedimientoSumaResta.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\procedimientoSumaResta\procedimientoSumaResta\obj\Debug\net8.0\procedimientoSumaResta.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\procedimientoSumaResta\procedimientoSumaResta\obj\Debug\net8.0\procedimientoSumaResta.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\procedimientoSumaResta\procedimientoSumaResta\bin\Debug\net8.0\procedimientoSumaResta.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\procedimientoSumaResta\procedimientoSumaResta\bin\Debug\net8.0\procedimientoSumaResta.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\procedimientoSumaResta\procedimientoSumaResta\bin\Debug\net8.0\procedimientoSumaResta.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\procedimientoSumaResta\procedimientoSumaResta\bin\Debug\net8.0\procedimientoSumaResta.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\procedimientoSumaResta\procedimientoSumaResta\bin\Debug\net8.0\procedimientoSumaResta.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\procedimientoSumaResta\procedimientoSumaResta\obj\Debug\net8.0\procedimientoSumaResta.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\procedimientoSumaResta\procedimientoSumaResta\obj\Debug\net8.0\refint\procedimientoSumaResta.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\procedimientoSumaResta\procedimientoSumaResta\obj\Debug\net8.0\procedimientoSumaResta.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\procedimientoSumaResta\procedimientoSumaResta\obj\Debug\net8.0\procedimientoSumaResta.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\procedimientoSumaResta\procedimientoSumaResta\obj\Debug\net8.0\ref\procedimientoSumaResta.dll

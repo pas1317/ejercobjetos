@@ -1,0 +1,14 @@
+C:\Users\alberto\Desktop\pas1317\curso\arraysEj15Caracteres\arraysEj15Caracteres\bin\Debug\net8.0\arraysEj15Caracteres.exe
+C:\Users\alberto\Desktop\pas1317\curso\arraysEj15Caracteres\arraysEj15Caracteres\bin\Debug\net8.0\arraysEj15Caracteres.deps.json
+C:\Users\alberto\Desktop\pas1317\curso\arraysEj15Caracteres\arraysEj15Caracteres\bin\Debug\net8.0\arraysEj15Caracteres.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\curso\arraysEj15Caracteres\arraysEj15Caracteres\bin\Debug\net8.0\arraysEj15Caracteres.dll
+C:\Users\alberto\Desktop\pas1317\curso\arraysEj15Caracteres\arraysEj15Caracteres\bin\Debug\net8.0\arraysEj15Caracteres.pdb
+C:\Users\alberto\Desktop\pas1317\curso\arraysEj15Caracteres\arraysEj15Caracteres\obj\Debug\net8.0\arraysEj15Caracteres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\curso\arraysEj15Caracteres\arraysEj15Caracteres\obj\Debug\net8.0\arraysEj15Caracteres.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\arraysEj15Caracteres\arraysEj15Caracteres\obj\Debug\net8.0\arraysEj15Caracteres.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\curso\arraysEj15Caracteres\arraysEj15Caracteres\obj\Debug\net8.0\arraysEj15Caracteres.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\arraysEj15Caracteres\arraysEj15Caracteres\obj\Debug\net8.0\arraysEj15Caracteres.dll
+C:\Users\alberto\Desktop\pas1317\curso\arraysEj15Caracteres\arraysEj15Caracteres\obj\Debug\net8.0\refint\arraysEj15Caracteres.dll
+C:\Users\alberto\Desktop\pas1317\curso\arraysEj15Caracteres\arraysEj15Caracteres\obj\Debug\net8.0\arraysEj15Caracteres.pdb
+C:\Users\alberto\Desktop\pas1317\curso\arraysEj15Caracteres\arraysEj15Caracteres\obj\Debug\net8.0\arraysEj15Caracteres.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\curso\arraysEj15Caracteres\arraysEj15Caracteres\obj\Debug\net8.0\ref\arraysEj15Caracteres.dll

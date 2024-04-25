@@ -1,0 +1,14 @@
+C:\Users\alberto\Desktop\pas1317\curso\tiendaProductoDescuento\tiendaProductoDescuento\bin\Debug\net8.0\tiendaProductoDescuento.exe
+C:\Users\alberto\Desktop\pas1317\curso\tiendaProductoDescuento\tiendaProductoDescuento\bin\Debug\net8.0\tiendaProductoDescuento.deps.json
+C:\Users\alberto\Desktop\pas1317\curso\tiendaProductoDescuento\tiendaProductoDescuento\bin\Debug\net8.0\tiendaProductoDescuento.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\curso\tiendaProductoDescuento\tiendaProductoDescuento\bin\Debug\net8.0\tiendaProductoDescuento.dll
+C:\Users\alberto\Desktop\pas1317\curso\tiendaProductoDescuento\tiendaProductoDescuento\bin\Debug\net8.0\tiendaProductoDescuento.pdb
+C:\Users\alberto\Desktop\pas1317\curso\tiendaProductoDescuento\tiendaProductoDescuento\obj\Debug\net8.0\tiendaProductoDescuento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\curso\tiendaProductoDescuento\tiendaProductoDescuento\obj\Debug\net8.0\tiendaProductoDescuento.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\tiendaProductoDescuento\tiendaProductoDescuento\obj\Debug\net8.0\tiendaProductoDescuento.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\curso\tiendaProductoDescuento\tiendaProductoDescuento\obj\Debug\net8.0\tiendaProductoDescuento.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\tiendaProductoDescuento\tiendaProductoDescuento\obj\Debug\net8.0\tiendaProductoDescuento.dll
+C:\Users\alberto\Desktop\pas1317\curso\tiendaProductoDescuento\tiendaProductoDescuento\obj\Debug\net8.0\refint\tiendaProductoDescuento.dll
+C:\Users\alberto\Desktop\pas1317\curso\tiendaProductoDescuento\tiendaProductoDescuento\obj\Debug\net8.0\tiendaProductoDescuento.pdb
+C:\Users\alberto\Desktop\pas1317\curso\tiendaProductoDescuento\tiendaProductoDescuento\obj\Debug\net8.0\tiendaProductoDescuento.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\curso\tiendaProductoDescuento\tiendaProductoDescuento\obj\Debug\net8.0\ref\tiendaProductoDescuento.dll

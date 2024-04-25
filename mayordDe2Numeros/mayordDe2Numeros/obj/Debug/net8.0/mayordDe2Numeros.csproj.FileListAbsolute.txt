@@ -1,0 +1,14 @@
+C:\Users\alberto\Desktop\pas1317\curso\mayordDe2Numeros\mayordDe2Numeros\bin\Debug\net8.0\mayordDe2Numeros.exe
+C:\Users\alberto\Desktop\pas1317\curso\mayordDe2Numeros\mayordDe2Numeros\bin\Debug\net8.0\mayordDe2Numeros.deps.json
+C:\Users\alberto\Desktop\pas1317\curso\mayordDe2Numeros\mayordDe2Numeros\bin\Debug\net8.0\mayordDe2Numeros.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\curso\mayordDe2Numeros\mayordDe2Numeros\bin\Debug\net8.0\mayordDe2Numeros.dll
+C:\Users\alberto\Desktop\pas1317\curso\mayordDe2Numeros\mayordDe2Numeros\bin\Debug\net8.0\mayordDe2Numeros.pdb
+C:\Users\alberto\Desktop\pas1317\curso\mayordDe2Numeros\mayordDe2Numeros\obj\Debug\net8.0\mayordDe2Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\curso\mayordDe2Numeros\mayordDe2Numeros\obj\Debug\net8.0\mayordDe2Numeros.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\mayordDe2Numeros\mayordDe2Numeros\obj\Debug\net8.0\mayordDe2Numeros.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\curso\mayordDe2Numeros\mayordDe2Numeros\obj\Debug\net8.0\mayordDe2Numeros.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\mayordDe2Numeros\mayordDe2Numeros\obj\Debug\net8.0\mayordDe2Numeros.dll
+C:\Users\alberto\Desktop\pas1317\curso\mayordDe2Numeros\mayordDe2Numeros\obj\Debug\net8.0\refint\mayordDe2Numeros.dll
+C:\Users\alberto\Desktop\pas1317\curso\mayordDe2Numeros\mayordDe2Numeros\obj\Debug\net8.0\mayordDe2Numeros.pdb
+C:\Users\alberto\Desktop\pas1317\curso\mayordDe2Numeros\mayordDe2Numeros\obj\Debug\net8.0\mayordDe2Numeros.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\curso\mayordDe2Numeros\mayordDe2Numeros\obj\Debug\net8.0\ref\mayordDe2Numeros.dll

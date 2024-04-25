@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "arraysBusquedaDato/1.0.0": {
+        "runtime": {
+          "arraysBusquedaDato.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arraysBusquedaDato/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

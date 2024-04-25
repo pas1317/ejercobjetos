@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraDoWhile\estructuraDoWhile\bin\Debug\net8.0\estructuraDoWhile.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraDoWhile\estructuraDoWhile\bin\Debug\net8.0\estructuraDoWhile.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraDoWhile\estructuraDoWhile\bin\Debug\net8.0\estructuraDoWhile.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraDoWhile\estructuraDoWhile\bin\Debug\net8.0\estructuraDoWhile.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraDoWhile\estructuraDoWhile\bin\Debug\net8.0\estructuraDoWhile.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraDoWhile\estructuraDoWhile\obj\Debug\net8.0\estructuraDoWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraDoWhile\estructuraDoWhile\obj\Debug\net8.0\estructuraDoWhile.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraDoWhile\estructuraDoWhile\obj\Debug\net8.0\estructuraDoWhile.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraDoWhile\estructuraDoWhile\obj\Debug\net8.0\estructuraDoWhile.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraDoWhile\estructuraDoWhile\obj\Debug\net8.0\estructuraDoWhile.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraDoWhile\estructuraDoWhile\obj\Debug\net8.0\estructuraDoWhile.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraDoWhile\estructuraDoWhile\obj\Debug\net8.0\refint\estructuraDoWhile.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraDoWhile\estructuraDoWhile\obj\Debug\net8.0\estructuraDoWhile.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraDoWhile\estructuraDoWhile\obj\Debug\net8.0\estructuraDoWhile.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraDoWhile\estructuraDoWhile\obj\Debug\net8.0\ref\estructuraDoWhile.dll

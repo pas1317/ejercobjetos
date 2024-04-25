@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar15NumerosOperVarias\ingresar15NumerosOperVarias\bin\Debug\net8.0\ingresar15NumerosOperVarias.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar15NumerosOperVarias\ingresar15NumerosOperVarias\bin\Debug\net8.0\ingresar15NumerosOperVarias.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar15NumerosOperVarias\ingresar15NumerosOperVarias\bin\Debug\net8.0\ingresar15NumerosOperVarias.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar15NumerosOperVarias\ingresar15NumerosOperVarias\bin\Debug\net8.0\ingresar15NumerosOperVarias.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar15NumerosOperVarias\ingresar15NumerosOperVarias\bin\Debug\net8.0\ingresar15NumerosOperVarias.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar15NumerosOperVarias\ingresar15NumerosOperVarias\obj\Debug\net8.0\ingresar15NumerosOperVarias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar15NumerosOperVarias\ingresar15NumerosOperVarias\obj\Debug\net8.0\ingresar15NumerosOperVarias.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar15NumerosOperVarias\ingresar15NumerosOperVarias\obj\Debug\net8.0\ingresar15NumerosOperVarias.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar15NumerosOperVarias\ingresar15NumerosOperVarias\obj\Debug\net8.0\ingresar15NumerosOperVarias.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar15NumerosOperVarias\ingresar15NumerosOperVarias\obj\Debug\net8.0\ingresar15NumerosOperVarias.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar15NumerosOperVarias\ingresar15NumerosOperVarias\obj\Debug\net8.0\ingresar15NumerosOperVarias.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar15NumerosOperVarias\ingresar15NumerosOperVarias\obj\Debug\net8.0\refint\ingresar15NumerosOperVarias.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar15NumerosOperVarias\ingresar15NumerosOperVarias\obj\Debug\net8.0\ingresar15NumerosOperVarias.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar15NumerosOperVarias\ingresar15NumerosOperVarias\obj\Debug\net8.0\ingresar15NumerosOperVarias.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar15NumerosOperVarias\ingresar15NumerosOperVarias\obj\Debug\net8.0\ref\ingresar15NumerosOperVarias.dll

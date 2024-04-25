@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mayordDe2Numeros/1.0.0": {
+        "runtime": {
+          "mayordDe2Numeros.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mayordDe2Numeros/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

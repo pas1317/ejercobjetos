@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\ConsoleApp2referencias\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D88D577-15FD-46B9-8981-D3E14CF86B8B}|ConsoleApp2referencias\\ConsoleApp2referencias.csproj|c:\\users\\alberto\\desktop\\pas1317\\ejercicios\\consoleapp2referencias\\consoleapp2referencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D88D577-15FD-46B9-8981-D3E14CF86B8B}|ConsoleApp2referencias\\ConsoleApp2referencias.csproj|solutionrelative:consoleapp2referencias\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 403,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\ConsoleApp2referencias\\ConsoleApp2referencias\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp2referencias\\Program.cs",
+              "ToolTip": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\ConsoleApp2referencias\\ConsoleApp2referencias\\Program.cs",
+              "RelativeToolTip": "ConsoleApp2referencias\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T12:14:24.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

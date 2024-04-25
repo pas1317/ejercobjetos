@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\suma de numeros\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BCB3AB8-7604-4076-B2D8-6445B356F88F}|suma de numeros\\suma de numeros.csproj|c:\\users\\alberto\\desktop\\pas1317\\ejercicios\\suma de numeros\\suma de numeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BCB3AB8-7604-4076-B2D8-6445B356F88F}|suma de numeros\\suma de numeros.csproj|solutionrelative:suma de numeros\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\suma de numeros\\suma de numeros\\Program.cs",
+              "RelativeDocumentMoniker": "suma de numeros\\Program.cs",
+              "ToolTip": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\suma de numeros\\suma de numeros\\Program.cs",
+              "RelativeToolTip": "suma de numeros\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T21:53:50.065Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

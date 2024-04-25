@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\nombreYApllido\nombreYApllido\bin\Debug\net8.0\nombreYApllido.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\nombreYApllido\nombreYApllido\bin\Debug\net8.0\nombreYApllido.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\nombreYApllido\nombreYApllido\bin\Debug\net8.0\nombreYApllido.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\nombreYApllido\nombreYApllido\bin\Debug\net8.0\nombreYApllido.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\nombreYApllido\nombreYApllido\bin\Debug\net8.0\nombreYApllido.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\nombreYApllido\nombreYApllido\obj\Debug\net8.0\nombreYApllido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\nombreYApllido\nombreYApllido\obj\Debug\net8.0\nombreYApllido.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\nombreYApllido\nombreYApllido\obj\Debug\net8.0\nombreYApllido.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\nombreYApllido\nombreYApllido\obj\Debug\net8.0\nombreYApllido.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\nombreYApllido\nombreYApllido\obj\Debug\net8.0\nombreYApllido.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\nombreYApllido\nombreYApllido\obj\Debug\net8.0\nombreYApllido.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\nombreYApllido\nombreYApllido\obj\Debug\net8.0\refint\nombreYApllido.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\nombreYApllido\nombreYApllido\obj\Debug\net8.0\nombreYApllido.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\nombreYApllido\nombreYApllido\obj\Debug\net8.0\nombreYApllido.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\nombreYApllido\nombreYApllido\obj\Debug\net8.0\ref\nombreYApllido.dll

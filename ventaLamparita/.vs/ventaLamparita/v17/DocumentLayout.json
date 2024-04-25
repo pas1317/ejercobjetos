@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alberto\\Desktop\\pas1317\\curso\\ventaLamparita\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0647F749-9716-4FBC-A4D8-B6B87DB794B7}|ventaLamparita\\ventaLamparita.csproj|c:\\users\\alberto\\desktop\\pas1317\\curso\\ventalamparita\\ventalamparita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0647F749-9716-4FBC-A4D8-B6B87DB794B7}|ventaLamparita\\ventaLamparita.csproj|solutionrelative:ventalamparita\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alberto\\Desktop\\pas1317\\curso\\ventaLamparita\\ventaLamparita\\Program.cs",
+              "RelativeDocumentMoniker": "ventaLamparita\\Program.cs",
+              "ToolTip": "C:\\Users\\alberto\\Desktop\\pas1317\\curso\\ventaLamparita\\ventaLamparita\\Program.cs",
+              "RelativeToolTip": "ventaLamparita\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T13:45:37.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

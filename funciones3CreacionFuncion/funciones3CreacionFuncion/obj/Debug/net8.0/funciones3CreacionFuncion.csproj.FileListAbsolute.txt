@@ -1,0 +1,14 @@
+C:\Users\alberto\Desktop\pas1317\curso\funciones3CreacionFuncion\funciones3CreacionFuncion\bin\Debug\net8.0\funciones3CreacionFuncion.exe
+C:\Users\alberto\Desktop\pas1317\curso\funciones3CreacionFuncion\funciones3CreacionFuncion\bin\Debug\net8.0\funciones3CreacionFuncion.deps.json
+C:\Users\alberto\Desktop\pas1317\curso\funciones3CreacionFuncion\funciones3CreacionFuncion\bin\Debug\net8.0\funciones3CreacionFuncion.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\curso\funciones3CreacionFuncion\funciones3CreacionFuncion\bin\Debug\net8.0\funciones3CreacionFuncion.dll
+C:\Users\alberto\Desktop\pas1317\curso\funciones3CreacionFuncion\funciones3CreacionFuncion\bin\Debug\net8.0\funciones3CreacionFuncion.pdb
+C:\Users\alberto\Desktop\pas1317\curso\funciones3CreacionFuncion\funciones3CreacionFuncion\obj\Debug\net8.0\funciones3CreacionFuncion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\curso\funciones3CreacionFuncion\funciones3CreacionFuncion\obj\Debug\net8.0\funciones3CreacionFuncion.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\funciones3CreacionFuncion\funciones3CreacionFuncion\obj\Debug\net8.0\funciones3CreacionFuncion.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\curso\funciones3CreacionFuncion\funciones3CreacionFuncion\obj\Debug\net8.0\funciones3CreacionFuncion.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\funciones3CreacionFuncion\funciones3CreacionFuncion\obj\Debug\net8.0\funciones3CreacionFuncion.dll
+C:\Users\alberto\Desktop\pas1317\curso\funciones3CreacionFuncion\funciones3CreacionFuncion\obj\Debug\net8.0\refint\funciones3CreacionFuncion.dll
+C:\Users\alberto\Desktop\pas1317\curso\funciones3CreacionFuncion\funciones3CreacionFuncion\obj\Debug\net8.0\funciones3CreacionFuncion.pdb
+C:\Users\alberto\Desktop\pas1317\curso\funciones3CreacionFuncion\funciones3CreacionFuncion\obj\Debug\net8.0\funciones3CreacionFuncion.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\curso\funciones3CreacionFuncion\funciones3CreacionFuncion\obj\Debug\net8.0\ref\funciones3CreacionFuncion.dll

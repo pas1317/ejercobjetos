@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForImprimirImpares\bucleForImprimirImpares\bin\Debug\net8.0\bucleForImprimirImpares.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForImprimirImpares\bucleForImprimirImpares\bin\Debug\net8.0\bucleForImprimirImpares.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForImprimirImpares\bucleForImprimirImpares\bin\Debug\net8.0\bucleForImprimirImpares.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForImprimirImpares\bucleForImprimirImpares\bin\Debug\net8.0\bucleForImprimirImpares.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForImprimirImpares\bucleForImprimirImpares\bin\Debug\net8.0\bucleForImprimirImpares.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForImprimirImpares\bucleForImprimirImpares\obj\Debug\net8.0\bucleForImprimirImpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForImprimirImpares\bucleForImprimirImpares\obj\Debug\net8.0\bucleForImprimirImpares.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForImprimirImpares\bucleForImprimirImpares\obj\Debug\net8.0\bucleForImprimirImpares.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForImprimirImpares\bucleForImprimirImpares\obj\Debug\net8.0\bucleForImprimirImpares.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForImprimirImpares\bucleForImprimirImpares\obj\Debug\net8.0\bucleForImprimirImpares.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForImprimirImpares\bucleForImprimirImpares\obj\Debug\net8.0\bucleForImprimirImpares.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForImprimirImpares\bucleForImprimirImpares\obj\Debug\net8.0\refint\bucleForImprimirImpares.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForImprimirImpares\bucleForImprimirImpares\obj\Debug\net8.0\bucleForImprimirImpares.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForImprimirImpares\bucleForImprimirImpares\obj\Debug\net8.0\bucleForImprimirImpares.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForImprimirImpares\bucleForImprimirImpares\obj\Debug\net8.0\ref\bucleForImprimirImpares.dll

@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\pruebaaRRAYSsTRING\pruebaaRRAYSsTRING\bin\Debug\net8.0\pruebaaRRAYSsTRING.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\pruebaaRRAYSsTRING\pruebaaRRAYSsTRING\bin\Debug\net8.0\pruebaaRRAYSsTRING.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\pruebaaRRAYSsTRING\pruebaaRRAYSsTRING\bin\Debug\net8.0\pruebaaRRAYSsTRING.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\pruebaaRRAYSsTRING\pruebaaRRAYSsTRING\bin\Debug\net8.0\pruebaaRRAYSsTRING.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\pruebaaRRAYSsTRING\pruebaaRRAYSsTRING\bin\Debug\net8.0\pruebaaRRAYSsTRING.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\pruebaaRRAYSsTRING\pruebaaRRAYSsTRING\obj\Debug\net8.0\pruebaaRRAYSsTRING.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\pruebaaRRAYSsTRING\pruebaaRRAYSsTRING\obj\Debug\net8.0\pruebaaRRAYSsTRING.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\pruebaaRRAYSsTRING\pruebaaRRAYSsTRING\obj\Debug\net8.0\pruebaaRRAYSsTRING.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\pruebaaRRAYSsTRING\pruebaaRRAYSsTRING\obj\Debug\net8.0\pruebaaRRAYSsTRING.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\pruebaaRRAYSsTRING\pruebaaRRAYSsTRING\obj\Debug\net8.0\pruebaaRRAYSsTRING.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\pruebaaRRAYSsTRING\pruebaaRRAYSsTRING\obj\Debug\net8.0\pruebaaRRAYSsTRING.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\pruebaaRRAYSsTRING\pruebaaRRAYSsTRING\obj\Debug\net8.0\refint\pruebaaRRAYSsTRING.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\pruebaaRRAYSsTRING\pruebaaRRAYSsTRING\obj\Debug\net8.0\pruebaaRRAYSsTRING.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\pruebaaRRAYSsTRING\pruebaaRRAYSsTRING\obj\Debug\net8.0\pruebaaRRAYSsTRING.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\pruebaaRRAYSsTRING\pruebaaRRAYSsTRING\obj\Debug\net8.0\ref\pruebaaRRAYSsTRING.dll

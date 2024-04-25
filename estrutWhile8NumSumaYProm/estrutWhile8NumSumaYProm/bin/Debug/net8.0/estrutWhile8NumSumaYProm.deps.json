@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "estrutWhile8NumSumaYProm/1.0.0": {
+        "runtime": {
+          "estrutWhile8NumSumaYProm.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "estrutWhile8NumSumaYProm/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

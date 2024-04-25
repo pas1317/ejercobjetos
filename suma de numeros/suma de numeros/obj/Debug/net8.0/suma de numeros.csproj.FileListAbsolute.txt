@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\suma de numeros\suma de numeros\bin\Debug\net8.0\suma de numeros.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\suma de numeros\suma de numeros\bin\Debug\net8.0\suma de numeros.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\suma de numeros\suma de numeros\bin\Debug\net8.0\suma de numeros.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\suma de numeros\suma de numeros\bin\Debug\net8.0\suma de numeros.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\suma de numeros\suma de numeros\bin\Debug\net8.0\suma de numeros.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\suma de numeros\suma de numeros\obj\Debug\net8.0\suma de numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\suma de numeros\suma de numeros\obj\Debug\net8.0\suma de numeros.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\suma de numeros\suma de numeros\obj\Debug\net8.0\suma de numeros.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\suma de numeros\suma de numeros\obj\Debug\net8.0\suma de numeros.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\suma de numeros\suma de numeros\obj\Debug\net8.0\suma de numeros.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\suma de numeros\suma de numeros\obj\Debug\net8.0\suma de numeros.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\suma de numeros\suma de numeros\obj\Debug\net8.0\refint\suma de numeros.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\suma de numeros\suma de numeros\obj\Debug\net8.0\suma de numeros.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\suma de numeros\suma de numeros\obj\Debug\net8.0\suma de numeros.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\suma de numeros\suma de numeros\obj\Debug\net8.0\ref\suma de numeros.dll

@@ -1,0 +1,14 @@
+C:\Users\alberto\Desktop\pas1317\curso\parOimpar\parOimpar\bin\Debug\net8.0\parOimpar.exe
+C:\Users\alberto\Desktop\pas1317\curso\parOimpar\parOimpar\bin\Debug\net8.0\parOimpar.deps.json
+C:\Users\alberto\Desktop\pas1317\curso\parOimpar\parOimpar\bin\Debug\net8.0\parOimpar.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\curso\parOimpar\parOimpar\bin\Debug\net8.0\parOimpar.dll
+C:\Users\alberto\Desktop\pas1317\curso\parOimpar\parOimpar\bin\Debug\net8.0\parOimpar.pdb
+C:\Users\alberto\Desktop\pas1317\curso\parOimpar\parOimpar\obj\Debug\net8.0\parOimpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\curso\parOimpar\parOimpar\obj\Debug\net8.0\parOimpar.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\parOimpar\parOimpar\obj\Debug\net8.0\parOimpar.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\curso\parOimpar\parOimpar\obj\Debug\net8.0\parOimpar.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\parOimpar\parOimpar\obj\Debug\net8.0\parOimpar.dll
+C:\Users\alberto\Desktop\pas1317\curso\parOimpar\parOimpar\obj\Debug\net8.0\refint\parOimpar.dll
+C:\Users\alberto\Desktop\pas1317\curso\parOimpar\parOimpar\obj\Debug\net8.0\parOimpar.pdb
+C:\Users\alberto\Desktop\pas1317\curso\parOimpar\parOimpar\obj\Debug\net8.0\parOimpar.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\curso\parOimpar\parOimpar\obj\Debug\net8.0\ref\parOimpar.dll

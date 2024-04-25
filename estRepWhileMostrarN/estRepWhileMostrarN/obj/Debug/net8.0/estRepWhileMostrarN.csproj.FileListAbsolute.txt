@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\estRepWhileMostrarN\estRepWhileMostrarN\bin\Debug\net8.0\estRepWhileMostrarN.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\estRepWhileMostrarN\estRepWhileMostrarN\bin\Debug\net8.0\estRepWhileMostrarN.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\estRepWhileMostrarN\estRepWhileMostrarN\bin\Debug\net8.0\estRepWhileMostrarN.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\estRepWhileMostrarN\estRepWhileMostrarN\bin\Debug\net8.0\estRepWhileMostrarN.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\estRepWhileMostrarN\estRepWhileMostrarN\bin\Debug\net8.0\estRepWhileMostrarN.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\estRepWhileMostrarN\estRepWhileMostrarN\obj\Debug\net8.0\estRepWhileMostrarN.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\estRepWhileMostrarN\estRepWhileMostrarN\obj\Debug\net8.0\estRepWhileMostrarN.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\estRepWhileMostrarN\estRepWhileMostrarN\obj\Debug\net8.0\estRepWhileMostrarN.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\estRepWhileMostrarN\estRepWhileMostrarN\obj\Debug\net8.0\estRepWhileMostrarN.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\estRepWhileMostrarN\estRepWhileMostrarN\obj\Debug\net8.0\estRepWhileMostrarN.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\estRepWhileMostrarN\estRepWhileMostrarN\obj\Debug\net8.0\estRepWhileMostrarN.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\estRepWhileMostrarN\estRepWhileMostrarN\obj\Debug\net8.0\refint\estRepWhileMostrarN.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\estRepWhileMostrarN\estRepWhileMostrarN\obj\Debug\net8.0\estRepWhileMostrarN.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\estRepWhileMostrarN\estRepWhileMostrarN\obj\Debug\net8.0\estRepWhileMostrarN.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\estRepWhileMostrarN\estRepWhileMostrarN\obj\Debug\net8.0\ref\estRepWhileMostrarN.dll

@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\diasSemana\diasSemana\obj\Debug\net8.0\diasSemana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\diasSemana\diasSemana\obj\Debug\net8.0\diasSemana.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\diasSemana\diasSemana\obj\Debug\net8.0\diasSemana.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\diasSemana\diasSemana\obj\Debug\net8.0\diasSemana.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\diasSemana\diasSemana\obj\Debug\net8.0\diasSemana.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\diasSemana\diasSemana\bin\Debug\net8.0\diasSemana.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\diasSemana\diasSemana\bin\Debug\net8.0\diasSemana.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\diasSemana\diasSemana\bin\Debug\net8.0\diasSemana.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\diasSemana\diasSemana\bin\Debug\net8.0\diasSemana.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\diasSemana\diasSemana\bin\Debug\net8.0\diasSemana.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\diasSemana\diasSemana\obj\Debug\net8.0\diasSemana.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\diasSemana\diasSemana\obj\Debug\net8.0\refint\diasSemana.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\diasSemana\diasSemana\obj\Debug\net8.0\diasSemana.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\diasSemana\diasSemana\obj\Debug\net8.0\diasSemana.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\diasSemana\diasSemana\obj\Debug\net8.0\ref\diasSemana.dll

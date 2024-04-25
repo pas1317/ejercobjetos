@@ -1,0 +1,14 @@
+C:\Users\alberto\Desktop\pas1317\curso\condicional2HombreMujer\condicional2HombreMujer\bin\Debug\net8.0\condicional2HombreMujer.exe
+C:\Users\alberto\Desktop\pas1317\curso\condicional2HombreMujer\condicional2HombreMujer\bin\Debug\net8.0\condicional2HombreMujer.deps.json
+C:\Users\alberto\Desktop\pas1317\curso\condicional2HombreMujer\condicional2HombreMujer\bin\Debug\net8.0\condicional2HombreMujer.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\curso\condicional2HombreMujer\condicional2HombreMujer\bin\Debug\net8.0\condicional2HombreMujer.dll
+C:\Users\alberto\Desktop\pas1317\curso\condicional2HombreMujer\condicional2HombreMujer\bin\Debug\net8.0\condicional2HombreMujer.pdb
+C:\Users\alberto\Desktop\pas1317\curso\condicional2HombreMujer\condicional2HombreMujer\obj\Debug\net8.0\condicional2HombreMujer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\curso\condicional2HombreMujer\condicional2HombreMujer\obj\Debug\net8.0\condicional2HombreMujer.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\condicional2HombreMujer\condicional2HombreMujer\obj\Debug\net8.0\condicional2HombreMujer.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\curso\condicional2HombreMujer\condicional2HombreMujer\obj\Debug\net8.0\condicional2HombreMujer.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\condicional2HombreMujer\condicional2HombreMujer\obj\Debug\net8.0\condicional2HombreMujer.dll
+C:\Users\alberto\Desktop\pas1317\curso\condicional2HombreMujer\condicional2HombreMujer\obj\Debug\net8.0\refint\condicional2HombreMujer.dll
+C:\Users\alberto\Desktop\pas1317\curso\condicional2HombreMujer\condicional2HombreMujer\obj\Debug\net8.0\condicional2HombreMujer.pdb
+C:\Users\alberto\Desktop\pas1317\curso\condicional2HombreMujer\condicional2HombreMujer\obj\Debug\net8.0\condicional2HombreMujer.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\curso\condicional2HombreMujer\condicional2HombreMujer\obj\Debug\net8.0\ref\condicional2HombreMujer.dll

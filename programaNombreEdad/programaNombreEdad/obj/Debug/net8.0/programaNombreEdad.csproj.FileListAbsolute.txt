@@ -1,0 +1,14 @@
+C:\Users\alberto\Desktop\pas1317\curso\programaNombreEdad\programaNombreEdad\bin\Debug\net8.0\programaNombreEdad.exe
+C:\Users\alberto\Desktop\pas1317\curso\programaNombreEdad\programaNombreEdad\bin\Debug\net8.0\programaNombreEdad.deps.json
+C:\Users\alberto\Desktop\pas1317\curso\programaNombreEdad\programaNombreEdad\bin\Debug\net8.0\programaNombreEdad.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\curso\programaNombreEdad\programaNombreEdad\bin\Debug\net8.0\programaNombreEdad.dll
+C:\Users\alberto\Desktop\pas1317\curso\programaNombreEdad\programaNombreEdad\bin\Debug\net8.0\programaNombreEdad.pdb
+C:\Users\alberto\Desktop\pas1317\curso\programaNombreEdad\programaNombreEdad\obj\Debug\net8.0\programaNombreEdad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\curso\programaNombreEdad\programaNombreEdad\obj\Debug\net8.0\programaNombreEdad.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\programaNombreEdad\programaNombreEdad\obj\Debug\net8.0\programaNombreEdad.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\curso\programaNombreEdad\programaNombreEdad\obj\Debug\net8.0\programaNombreEdad.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\programaNombreEdad\programaNombreEdad\obj\Debug\net8.0\programaNombreEdad.dll
+C:\Users\alberto\Desktop\pas1317\curso\programaNombreEdad\programaNombreEdad\obj\Debug\net8.0\refint\programaNombreEdad.dll
+C:\Users\alberto\Desktop\pas1317\curso\programaNombreEdad\programaNombreEdad\obj\Debug\net8.0\programaNombreEdad.pdb
+C:\Users\alberto\Desktop\pas1317\curso\programaNombreEdad\programaNombreEdad\obj\Debug\net8.0\programaNombreEdad.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\curso\programaNombreEdad\programaNombreEdad\obj\Debug\net8.0\ref\programaNombreEdad.dll

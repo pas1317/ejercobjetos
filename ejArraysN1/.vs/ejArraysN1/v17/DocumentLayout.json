@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\ejArraysN1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67E23308-D941-47A1-89AE-465AC2C764F5}|ejArraysN1\\ejArraysN1.csproj|c:\\users\\alberto\\desktop\\pas1317\\ejercicios\\ejarraysn1\\ejarraysn1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67E23308-D941-47A1-89AE-465AC2C764F5}|ejArraysN1\\ejArraysN1.csproj|solutionrelative:ejarraysn1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\ejArraysN1\\ejArraysN1\\Program.cs",
+              "RelativeDocumentMoniker": "ejArraysN1\\Program.cs",
+              "ToolTip": "C:\\Users\\alberto\\Desktop\\pas1317\\ejercicios\\ejArraysN1\\ejArraysN1\\Program.cs",
+              "RelativeToolTip": "ejArraysN1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T23:22:26.478Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

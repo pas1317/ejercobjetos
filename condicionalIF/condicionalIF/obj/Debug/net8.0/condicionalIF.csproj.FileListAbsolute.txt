@@ -1,0 +1,14 @@
+C:\Users\alberto\Desktop\pas1317\curso\condicionalIF\condicionalIF\bin\Debug\net8.0\condicionalIF.exe
+C:\Users\alberto\Desktop\pas1317\curso\condicionalIF\condicionalIF\bin\Debug\net8.0\condicionalIF.deps.json
+C:\Users\alberto\Desktop\pas1317\curso\condicionalIF\condicionalIF\bin\Debug\net8.0\condicionalIF.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\curso\condicionalIF\condicionalIF\bin\Debug\net8.0\condicionalIF.dll
+C:\Users\alberto\Desktop\pas1317\curso\condicionalIF\condicionalIF\bin\Debug\net8.0\condicionalIF.pdb
+C:\Users\alberto\Desktop\pas1317\curso\condicionalIF\condicionalIF\obj\Debug\net8.0\condicionalIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\curso\condicionalIF\condicionalIF\obj\Debug\net8.0\condicionalIF.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\condicionalIF\condicionalIF\obj\Debug\net8.0\condicionalIF.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\curso\condicionalIF\condicionalIF\obj\Debug\net8.0\condicionalIF.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\condicionalIF\condicionalIF\obj\Debug\net8.0\condicionalIF.dll
+C:\Users\alberto\Desktop\pas1317\curso\condicionalIF\condicionalIF\obj\Debug\net8.0\refint\condicionalIF.dll
+C:\Users\alberto\Desktop\pas1317\curso\condicionalIF\condicionalIF\obj\Debug\net8.0\condicionalIF.pdb
+C:\Users\alberto\Desktop\pas1317\curso\condicionalIF\condicionalIF\obj\Debug\net8.0\condicionalIF.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\curso\condicionalIF\condicionalIF\obj\Debug\net8.0\ref\condicionalIF.dll

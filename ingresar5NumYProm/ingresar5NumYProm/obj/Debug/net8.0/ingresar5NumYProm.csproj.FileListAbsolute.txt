@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar5NumYProm\ingresar5NumYProm\obj\Debug\net8.0\ingresar5NumYProm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar5NumYProm\ingresar5NumYProm\obj\Debug\net8.0\ingresar5NumYProm.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar5NumYProm\ingresar5NumYProm\obj\Debug\net8.0\ingresar5NumYProm.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar5NumYProm\ingresar5NumYProm\obj\Debug\net8.0\ingresar5NumYProm.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar5NumYProm\ingresar5NumYProm\obj\Debug\net8.0\ingresar5NumYProm.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar5NumYProm\ingresar5NumYProm\bin\Debug\net8.0\ingresar5NumYProm.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar5NumYProm\ingresar5NumYProm\bin\Debug\net8.0\ingresar5NumYProm.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar5NumYProm\ingresar5NumYProm\bin\Debug\net8.0\ingresar5NumYProm.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar5NumYProm\ingresar5NumYProm\bin\Debug\net8.0\ingresar5NumYProm.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar5NumYProm\ingresar5NumYProm\bin\Debug\net8.0\ingresar5NumYProm.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar5NumYProm\ingresar5NumYProm\obj\Debug\net8.0\ingresar5NumYProm.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar5NumYProm\ingresar5NumYProm\obj\Debug\net8.0\refint\ingresar5NumYProm.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar5NumYProm\ingresar5NumYProm\obj\Debug\net8.0\ingresar5NumYProm.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar5NumYProm\ingresar5NumYProm\obj\Debug\net8.0\ingresar5NumYProm.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresar5NumYProm\ingresar5NumYProm\obj\Debug\net8.0\ref\ingresar5NumYProm.dll

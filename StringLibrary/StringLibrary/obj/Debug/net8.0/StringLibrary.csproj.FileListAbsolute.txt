@@ -1,0 +1,12 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\StringLibrary\StringLibrary\bin\Debug\net8.0\StringLibrary.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\StringLibrary\StringLibrary\bin\Debug\net8.0\StringLibrary.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\StringLibrary\StringLibrary\bin\Debug\net8.0\StringLibrary.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\StringLibrary\StringLibrary\obj\Debug\net8.0\StringLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\StringLibrary\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\StringLibrary\StringLibrary\obj\Debug\net8.0\StringLibrary.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\StringLibrary\StringLibrary\obj\Debug\net8.0\StringLibrary.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\StringLibrary\StringLibrary\obj\Debug\net8.0\StringLibrary.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\StringLibrary\StringLibrary\obj\Debug\net8.0\StringLibrary.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\StringLibrary\StringLibrary\obj\Debug\net8.0\refint\StringLibrary.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\StringLibrary\StringLibrary\obj\Debug\net8.0\StringLibrary.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\StringLibrary\StringLibrary\obj\Debug\net8.0\ref\StringLibrary.dll

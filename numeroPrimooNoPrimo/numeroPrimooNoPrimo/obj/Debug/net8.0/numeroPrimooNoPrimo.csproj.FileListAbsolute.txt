@@ -1,0 +1,14 @@
+C:\Users\alberto\Desktop\pas1317\curso\numeroPrimooNoPrimo\numeroPrimooNoPrimo\bin\Debug\net8.0\numeroPrimooNoPrimo.exe
+C:\Users\alberto\Desktop\pas1317\curso\numeroPrimooNoPrimo\numeroPrimooNoPrimo\bin\Debug\net8.0\numeroPrimooNoPrimo.deps.json
+C:\Users\alberto\Desktop\pas1317\curso\numeroPrimooNoPrimo\numeroPrimooNoPrimo\bin\Debug\net8.0\numeroPrimooNoPrimo.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\curso\numeroPrimooNoPrimo\numeroPrimooNoPrimo\bin\Debug\net8.0\numeroPrimooNoPrimo.dll
+C:\Users\alberto\Desktop\pas1317\curso\numeroPrimooNoPrimo\numeroPrimooNoPrimo\bin\Debug\net8.0\numeroPrimooNoPrimo.pdb
+C:\Users\alberto\Desktop\pas1317\curso\numeroPrimooNoPrimo\numeroPrimooNoPrimo\obj\Debug\net8.0\numeroPrimooNoPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\curso\numeroPrimooNoPrimo\numeroPrimooNoPrimo\obj\Debug\net8.0\numeroPrimooNoPrimo.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\numeroPrimooNoPrimo\numeroPrimooNoPrimo\obj\Debug\net8.0\numeroPrimooNoPrimo.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\curso\numeroPrimooNoPrimo\numeroPrimooNoPrimo\obj\Debug\net8.0\numeroPrimooNoPrimo.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\numeroPrimooNoPrimo\numeroPrimooNoPrimo\obj\Debug\net8.0\numeroPrimooNoPrimo.dll
+C:\Users\alberto\Desktop\pas1317\curso\numeroPrimooNoPrimo\numeroPrimooNoPrimo\obj\Debug\net8.0\refint\numeroPrimooNoPrimo.dll
+C:\Users\alberto\Desktop\pas1317\curso\numeroPrimooNoPrimo\numeroPrimooNoPrimo\obj\Debug\net8.0\numeroPrimooNoPrimo.pdb
+C:\Users\alberto\Desktop\pas1317\curso\numeroPrimooNoPrimo\numeroPrimooNoPrimo\obj\Debug\net8.0\numeroPrimooNoPrimo.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\curso\numeroPrimooNoPrimo\numeroPrimooNoPrimo\obj\Debug\net8.0\ref\numeroPrimooNoPrimo.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "arraysEj15Caracteres/1.0.0": {
+        "runtime": {
+          "arraysEj15Caracteres.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "arraysEj15Caracteres/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

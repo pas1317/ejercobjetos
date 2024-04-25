@@ -1,0 +1,5 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\funcionesEjerc3\funcionesEjerc3\obj\Debug\net8.0\funcionesEjerc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\funcionesEjerc3\funcionesEjerc3\obj\Debug\net8.0\funcionesEjerc3.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\funcionesEjerc3\funcionesEjerc3\obj\Debug\net8.0\funcionesEjerc3.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\funcionesEjerc3\funcionesEjerc3\obj\Debug\net8.0\funcionesEjerc3.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\funcionesEjerc3\funcionesEjerc3\obj\Debug\net8.0\funcionesEjerc3.sourcelink.json

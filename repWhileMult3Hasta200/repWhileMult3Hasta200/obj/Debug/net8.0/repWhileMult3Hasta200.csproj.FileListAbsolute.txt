@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\repWhileMult3Hasta200\repWhileMult3Hasta200\bin\Debug\net8.0\repWhileMult3Hasta200.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\repWhileMult3Hasta200\repWhileMult3Hasta200\bin\Debug\net8.0\repWhileMult3Hasta200.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\repWhileMult3Hasta200\repWhileMult3Hasta200\bin\Debug\net8.0\repWhileMult3Hasta200.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\repWhileMult3Hasta200\repWhileMult3Hasta200\bin\Debug\net8.0\repWhileMult3Hasta200.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\repWhileMult3Hasta200\repWhileMult3Hasta200\bin\Debug\net8.0\repWhileMult3Hasta200.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\repWhileMult3Hasta200\repWhileMult3Hasta200\obj\Debug\net8.0\repWhileMult3Hasta200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\repWhileMult3Hasta200\repWhileMult3Hasta200\obj\Debug\net8.0\repWhileMult3Hasta200.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\repWhileMult3Hasta200\repWhileMult3Hasta200\obj\Debug\net8.0\repWhileMult3Hasta200.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\repWhileMult3Hasta200\repWhileMult3Hasta200\obj\Debug\net8.0\repWhileMult3Hasta200.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\repWhileMult3Hasta200\repWhileMult3Hasta200\obj\Debug\net8.0\repWhileMult3Hasta200.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\repWhileMult3Hasta200\repWhileMult3Hasta200\obj\Debug\net8.0\repWhileMult3Hasta200.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\repWhileMult3Hasta200\repWhileMult3Hasta200\obj\Debug\net8.0\refint\repWhileMult3Hasta200.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\repWhileMult3Hasta200\repWhileMult3Hasta200\obj\Debug\net8.0\repWhileMult3Hasta200.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\repWhileMult3Hasta200\repWhileMult3Hasta200\obj\Debug\net8.0\repWhileMult3Hasta200.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\repWhileMult3Hasta200\repWhileMult3Hasta200\obj\Debug\net8.0\ref\repWhileMult3Hasta200.dll

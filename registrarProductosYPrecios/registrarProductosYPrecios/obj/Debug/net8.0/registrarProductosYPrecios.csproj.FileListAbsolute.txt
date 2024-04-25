@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\registrarProductosYPrecios\registrarProductosYPrecios\bin\Debug\net8.0\registrarProductosYPrecios.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\registrarProductosYPrecios\registrarProductosYPrecios\bin\Debug\net8.0\registrarProductosYPrecios.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\registrarProductosYPrecios\registrarProductosYPrecios\bin\Debug\net8.0\registrarProductosYPrecios.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\registrarProductosYPrecios\registrarProductosYPrecios\bin\Debug\net8.0\registrarProductosYPrecios.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\registrarProductosYPrecios\registrarProductosYPrecios\bin\Debug\net8.0\registrarProductosYPrecios.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\registrarProductosYPrecios\registrarProductosYPrecios\obj\Debug\net8.0\registrarProductosYPrecios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\registrarProductosYPrecios\registrarProductosYPrecios\obj\Debug\net8.0\registrarProductosYPrecios.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\registrarProductosYPrecios\registrarProductosYPrecios\obj\Debug\net8.0\registrarProductosYPrecios.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\registrarProductosYPrecios\registrarProductosYPrecios\obj\Debug\net8.0\registrarProductosYPrecios.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\registrarProductosYPrecios\registrarProductosYPrecios\obj\Debug\net8.0\registrarProductosYPrecios.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\registrarProductosYPrecios\registrarProductosYPrecios\obj\Debug\net8.0\registrarProductosYPrecios.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\registrarProductosYPrecios\registrarProductosYPrecios\obj\Debug\net8.0\refint\registrarProductosYPrecios.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\registrarProductosYPrecios\registrarProductosYPrecios\obj\Debug\net8.0\registrarProductosYPrecios.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\registrarProductosYPrecios\registrarProductosYPrecios\obj\Debug\net8.0\registrarProductosYPrecios.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\registrarProductosYPrecios\registrarProductosYPrecios\obj\Debug\net8.0\ref\registrarProductosYPrecios.dll

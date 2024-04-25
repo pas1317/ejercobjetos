@@ -1,0 +1,14 @@
+C:\Users\alberto\Desktop\pas1317\curso\condicional3Lamparas\condicional3Lamparas\bin\Debug\net8.0\condicional3Lamparas.exe
+C:\Users\alberto\Desktop\pas1317\curso\condicional3Lamparas\condicional3Lamparas\bin\Debug\net8.0\condicional3Lamparas.deps.json
+C:\Users\alberto\Desktop\pas1317\curso\condicional3Lamparas\condicional3Lamparas\bin\Debug\net8.0\condicional3Lamparas.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\curso\condicional3Lamparas\condicional3Lamparas\bin\Debug\net8.0\condicional3Lamparas.dll
+C:\Users\alberto\Desktop\pas1317\curso\condicional3Lamparas\condicional3Lamparas\bin\Debug\net8.0\condicional3Lamparas.pdb
+C:\Users\alberto\Desktop\pas1317\curso\condicional3Lamparas\condicional3Lamparas\obj\Debug\net8.0\condicional3Lamparas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\curso\condicional3Lamparas\condicional3Lamparas\obj\Debug\net8.0\condicional3Lamparas.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\condicional3Lamparas\condicional3Lamparas\obj\Debug\net8.0\condicional3Lamparas.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\curso\condicional3Lamparas\condicional3Lamparas\obj\Debug\net8.0\condicional3Lamparas.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\condicional3Lamparas\condicional3Lamparas\obj\Debug\net8.0\condicional3Lamparas.dll
+C:\Users\alberto\Desktop\pas1317\curso\condicional3Lamparas\condicional3Lamparas\obj\Debug\net8.0\refint\condicional3Lamparas.dll
+C:\Users\alberto\Desktop\pas1317\curso\condicional3Lamparas\condicional3Lamparas\obj\Debug\net8.0\condicional3Lamparas.pdb
+C:\Users\alberto\Desktop\pas1317\curso\condicional3Lamparas\condicional3Lamparas\obj\Debug\net8.0\condicional3Lamparas.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\curso\condicional3Lamparas\condicional3Lamparas\obj\Debug\net8.0\ref\condicional3Lamparas.dll

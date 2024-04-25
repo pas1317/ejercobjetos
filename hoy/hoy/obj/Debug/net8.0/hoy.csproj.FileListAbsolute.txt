@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\hoy\hoy\bin\Debug\net8.0\hoy.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\hoy\hoy\bin\Debug\net8.0\hoy.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\hoy\hoy\bin\Debug\net8.0\hoy.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\hoy\hoy\bin\Debug\net8.0\hoy.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\hoy\hoy\bin\Debug\net8.0\hoy.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\hoy\hoy\obj\Debug\net8.0\hoy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\hoy\hoy\obj\Debug\net8.0\hoy.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\hoy\hoy\obj\Debug\net8.0\hoy.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\hoy\hoy\obj\Debug\net8.0\hoy.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\hoy\hoy\obj\Debug\net8.0\hoy.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\hoy\hoy\obj\Debug\net8.0\hoy.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\hoy\hoy\obj\Debug\net8.0\refint\hoy.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\hoy\hoy\obj\Debug\net8.0\hoy.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\hoy\hoy\obj\Debug\net8.0\hoy.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\hoy\hoy\obj\Debug\net8.0\ref\hoy.dll

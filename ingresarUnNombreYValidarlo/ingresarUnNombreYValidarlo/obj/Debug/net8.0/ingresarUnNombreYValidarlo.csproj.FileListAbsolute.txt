@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresarUnNombreYValidarlo\ingresarUnNombreYValidarlo\bin\Debug\net8.0\ingresarUnNombreYValidarlo.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresarUnNombreYValidarlo\ingresarUnNombreYValidarlo\bin\Debug\net8.0\ingresarUnNombreYValidarlo.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresarUnNombreYValidarlo\ingresarUnNombreYValidarlo\bin\Debug\net8.0\ingresarUnNombreYValidarlo.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresarUnNombreYValidarlo\ingresarUnNombreYValidarlo\bin\Debug\net8.0\ingresarUnNombreYValidarlo.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresarUnNombreYValidarlo\ingresarUnNombreYValidarlo\bin\Debug\net8.0\ingresarUnNombreYValidarlo.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresarUnNombreYValidarlo\ingresarUnNombreYValidarlo\obj\Debug\net8.0\ingresarUnNombreYValidarlo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresarUnNombreYValidarlo\ingresarUnNombreYValidarlo\obj\Debug\net8.0\ingresarUnNombreYValidarlo.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresarUnNombreYValidarlo\ingresarUnNombreYValidarlo\obj\Debug\net8.0\ingresarUnNombreYValidarlo.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresarUnNombreYValidarlo\ingresarUnNombreYValidarlo\obj\Debug\net8.0\ingresarUnNombreYValidarlo.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresarUnNombreYValidarlo\ingresarUnNombreYValidarlo\obj\Debug\net8.0\ingresarUnNombreYValidarlo.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresarUnNombreYValidarlo\ingresarUnNombreYValidarlo\obj\Debug\net8.0\ingresarUnNombreYValidarlo.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresarUnNombreYValidarlo\ingresarUnNombreYValidarlo\obj\Debug\net8.0\refint\ingresarUnNombreYValidarlo.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresarUnNombreYValidarlo\ingresarUnNombreYValidarlo\obj\Debug\net8.0\ingresarUnNombreYValidarlo.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresarUnNombreYValidarlo\ingresarUnNombreYValidarlo\obj\Debug\net8.0\ingresarUnNombreYValidarlo.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\ingresarUnNombreYValidarlo\ingresarUnNombreYValidarlo\obj\Debug\net8.0\ref\ingresarUnNombreYValidarlo.dll

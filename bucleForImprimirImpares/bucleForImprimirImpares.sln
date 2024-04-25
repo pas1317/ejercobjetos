@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bucleForImprimirImpares", "bucleForImprimirImpares\bucleForImprimirImpares.csproj", "{D40F2BF5-257A-4C84-B8BF-E3F05403A75D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D40F2BF5-257A-4C84-B8BF-E3F05403A75D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D40F2BF5-257A-4C84-B8BF-E3F05403A75D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D40F2BF5-257A-4C84-B8BF-E3F05403A75D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D40F2BF5-257A-4C84-B8BF-E3F05403A75D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E47557A-FFE9-413D-A73F-2201754DEC5F}
+	EndGlobalSection
+EndGlobal

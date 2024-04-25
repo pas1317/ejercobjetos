@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForSerieFibonacci\bucleForSerieFibonacci\bin\Debug\net8.0\bucleForSerieFibonacci.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForSerieFibonacci\bucleForSerieFibonacci\bin\Debug\net8.0\bucleForSerieFibonacci.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForSerieFibonacci\bucleForSerieFibonacci\bin\Debug\net8.0\bucleForSerieFibonacci.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForSerieFibonacci\bucleForSerieFibonacci\bin\Debug\net8.0\bucleForSerieFibonacci.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForSerieFibonacci\bucleForSerieFibonacci\bin\Debug\net8.0\bucleForSerieFibonacci.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForSerieFibonacci\bucleForSerieFibonacci\obj\Debug\net8.0\bucleForSerieFibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForSerieFibonacci\bucleForSerieFibonacci\obj\Debug\net8.0\bucleForSerieFibonacci.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForSerieFibonacci\bucleForSerieFibonacci\obj\Debug\net8.0\bucleForSerieFibonacci.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForSerieFibonacci\bucleForSerieFibonacci\obj\Debug\net8.0\bucleForSerieFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForSerieFibonacci\bucleForSerieFibonacci\obj\Debug\net8.0\bucleForSerieFibonacci.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForSerieFibonacci\bucleForSerieFibonacci\obj\Debug\net8.0\bucleForSerieFibonacci.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForSerieFibonacci\bucleForSerieFibonacci\obj\Debug\net8.0\refint\bucleForSerieFibonacci.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForSerieFibonacci\bucleForSerieFibonacci\obj\Debug\net8.0\bucleForSerieFibonacci.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForSerieFibonacci\bucleForSerieFibonacci\obj\Debug\net8.0\bucleForSerieFibonacci.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\bucleForSerieFibonacci\bucleForSerieFibonacci\obj\Debug\net8.0\ref\bucleForSerieFibonacci.dll

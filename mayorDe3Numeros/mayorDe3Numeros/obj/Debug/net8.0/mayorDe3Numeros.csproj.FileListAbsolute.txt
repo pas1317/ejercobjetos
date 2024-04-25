@@ -1,0 +1,14 @@
+C:\Users\alberto\Desktop\pas1317\curso\mayorDe3Numeros\mayorDe3Numeros\bin\Debug\net8.0\mayorDe3Numeros.exe
+C:\Users\alberto\Desktop\pas1317\curso\mayorDe3Numeros\mayorDe3Numeros\bin\Debug\net8.0\mayorDe3Numeros.deps.json
+C:\Users\alberto\Desktop\pas1317\curso\mayorDe3Numeros\mayorDe3Numeros\bin\Debug\net8.0\mayorDe3Numeros.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\curso\mayorDe3Numeros\mayorDe3Numeros\bin\Debug\net8.0\mayorDe3Numeros.dll
+C:\Users\alberto\Desktop\pas1317\curso\mayorDe3Numeros\mayorDe3Numeros\bin\Debug\net8.0\mayorDe3Numeros.pdb
+C:\Users\alberto\Desktop\pas1317\curso\mayorDe3Numeros\mayorDe3Numeros\obj\Debug\net8.0\mayorDe3Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\curso\mayorDe3Numeros\mayorDe3Numeros\obj\Debug\net8.0\mayorDe3Numeros.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\mayorDe3Numeros\mayorDe3Numeros\obj\Debug\net8.0\mayorDe3Numeros.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\curso\mayorDe3Numeros\mayorDe3Numeros\obj\Debug\net8.0\mayorDe3Numeros.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\curso\mayorDe3Numeros\mayorDe3Numeros\obj\Debug\net8.0\mayorDe3Numeros.dll
+C:\Users\alberto\Desktop\pas1317\curso\mayorDe3Numeros\mayorDe3Numeros\obj\Debug\net8.0\refint\mayorDe3Numeros.dll
+C:\Users\alberto\Desktop\pas1317\curso\mayorDe3Numeros\mayorDe3Numeros\obj\Debug\net8.0\mayorDe3Numeros.pdb
+C:\Users\alberto\Desktop\pas1317\curso\mayorDe3Numeros\mayorDe3Numeros\obj\Debug\net8.0\mayorDe3Numeros.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\curso\mayorDe3Numeros\mayorDe3Numeros\obj\Debug\net8.0\ref\mayorDe3Numeros.dll

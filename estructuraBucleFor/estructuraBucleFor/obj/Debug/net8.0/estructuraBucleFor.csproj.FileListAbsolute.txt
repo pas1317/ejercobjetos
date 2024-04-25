@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraBucleFor\estructuraBucleFor\bin\Debug\net8.0\estructuraBucleFor.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraBucleFor\estructuraBucleFor\bin\Debug\net8.0\estructuraBucleFor.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraBucleFor\estructuraBucleFor\bin\Debug\net8.0\estructuraBucleFor.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraBucleFor\estructuraBucleFor\bin\Debug\net8.0\estructuraBucleFor.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraBucleFor\estructuraBucleFor\bin\Debug\net8.0\estructuraBucleFor.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraBucleFor\estructuraBucleFor\obj\Debug\net8.0\estructuraBucleFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraBucleFor\estructuraBucleFor\obj\Debug\net8.0\estructuraBucleFor.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraBucleFor\estructuraBucleFor\obj\Debug\net8.0\estructuraBucleFor.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraBucleFor\estructuraBucleFor\obj\Debug\net8.0\estructuraBucleFor.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraBucleFor\estructuraBucleFor\obj\Debug\net8.0\estructuraBucleFor.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraBucleFor\estructuraBucleFor\obj\Debug\net8.0\estructuraBucleFor.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraBucleFor\estructuraBucleFor\obj\Debug\net8.0\refint\estructuraBucleFor.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraBucleFor\estructuraBucleFor\obj\Debug\net8.0\estructuraBucleFor.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraBucleFor\estructuraBucleFor\obj\Debug\net8.0\estructuraBucleFor.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructuraBucleFor\estructuraBucleFor\obj\Debug\net8.0\ref\estructuraBucleFor.dll

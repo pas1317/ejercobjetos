@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysUnid\arraysUnid\bin\Debug\net8.0\arraysUnid.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysUnid\arraysUnid\bin\Debug\net8.0\arraysUnid.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysUnid\arraysUnid\bin\Debug\net8.0\arraysUnid.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysUnid\arraysUnid\bin\Debug\net8.0\arraysUnid.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysUnid\arraysUnid\bin\Debug\net8.0\arraysUnid.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysUnid\arraysUnid\obj\Debug\net8.0\arraysUnid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysUnid\arraysUnid\obj\Debug\net8.0\arraysUnid.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysUnid\arraysUnid\obj\Debug\net8.0\arraysUnid.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysUnid\arraysUnid\obj\Debug\net8.0\arraysUnid.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysUnid\arraysUnid\obj\Debug\net8.0\arraysUnid.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysUnid\arraysUnid\obj\Debug\net8.0\arraysUnid.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysUnid\arraysUnid\obj\Debug\net8.0\refint\arraysUnid.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysUnid\arraysUnid\obj\Debug\net8.0\arraysUnid.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysUnid\arraysUnid\obj\Debug\net8.0\arraysUnid.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysUnid\arraysUnid\obj\Debug\net8.0\ref\arraysUnid.dll

@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructurasRepetitivas\estructurasRepetitivas\bin\Debug\net8.0\estructurasRepetitivas.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructurasRepetitivas\estructurasRepetitivas\bin\Debug\net8.0\estructurasRepetitivas.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructurasRepetitivas\estructurasRepetitivas\bin\Debug\net8.0\estructurasRepetitivas.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructurasRepetitivas\estructurasRepetitivas\bin\Debug\net8.0\estructurasRepetitivas.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructurasRepetitivas\estructurasRepetitivas\bin\Debug\net8.0\estructurasRepetitivas.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructurasRepetitivas\estructurasRepetitivas\obj\Debug\net8.0\estructurasRepetitivas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructurasRepetitivas\estructurasRepetitivas\obj\Debug\net8.0\estructurasRepetitivas.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructurasRepetitivas\estructurasRepetitivas\obj\Debug\net8.0\estructurasRepetitivas.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructurasRepetitivas\estructurasRepetitivas\obj\Debug\net8.0\estructurasRepetitivas.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructurasRepetitivas\estructurasRepetitivas\obj\Debug\net8.0\estructurasRepetitivas.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructurasRepetitivas\estructurasRepetitivas\obj\Debug\net8.0\estructurasRepetitivas.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructurasRepetitivas\estructurasRepetitivas\obj\Debug\net8.0\refint\estructurasRepetitivas.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructurasRepetitivas\estructurasRepetitivas\obj\Debug\net8.0\estructurasRepetitivas.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructurasRepetitivas\estructurasRepetitivas\obj\Debug\net8.0\estructurasRepetitivas.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\estructurasRepetitivas\estructurasRepetitivas\obj\Debug\net8.0\ref\estructurasRepetitivas.dll

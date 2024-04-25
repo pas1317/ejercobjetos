@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysBusquedaDato\arraysBusquedaDato\bin\Debug\net8.0\arraysBusquedaDato.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysBusquedaDato\arraysBusquedaDato\bin\Debug\net8.0\arraysBusquedaDato.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysBusquedaDato\arraysBusquedaDato\bin\Debug\net8.0\arraysBusquedaDato.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysBusquedaDato\arraysBusquedaDato\bin\Debug\net8.0\arraysBusquedaDato.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysBusquedaDato\arraysBusquedaDato\bin\Debug\net8.0\arraysBusquedaDato.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysBusquedaDato\arraysBusquedaDato\obj\Debug\net8.0\arraysBusquedaDato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysBusquedaDato\arraysBusquedaDato\obj\Debug\net8.0\arraysBusquedaDato.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysBusquedaDato\arraysBusquedaDato\obj\Debug\net8.0\arraysBusquedaDato.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysBusquedaDato\arraysBusquedaDato\obj\Debug\net8.0\arraysBusquedaDato.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysBusquedaDato\arraysBusquedaDato\obj\Debug\net8.0\arraysBusquedaDato.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysBusquedaDato\arraysBusquedaDato\obj\Debug\net8.0\arraysBusquedaDato.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysBusquedaDato\arraysBusquedaDato\obj\Debug\net8.0\refint\arraysBusquedaDato.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysBusquedaDato\arraysBusquedaDato\obj\Debug\net8.0\arraysBusquedaDato.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysBusquedaDato\arraysBusquedaDato\obj\Debug\net8.0\arraysBusquedaDato.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\arraysBusquedaDato\arraysBusquedaDato\obj\Debug\net8.0\ref\arraysBusquedaDato.dll

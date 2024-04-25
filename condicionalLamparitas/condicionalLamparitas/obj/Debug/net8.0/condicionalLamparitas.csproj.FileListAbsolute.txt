@@ -1,0 +1,15 @@
+C:\Users\alberto\Desktop\pas1317\ejercicios\condicionalLamparitas\condicionalLamparitas\bin\Debug\net8.0\condicionalLamparitas.exe
+C:\Users\alberto\Desktop\pas1317\ejercicios\condicionalLamparitas\condicionalLamparitas\bin\Debug\net8.0\condicionalLamparitas.deps.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\condicionalLamparitas\condicionalLamparitas\bin\Debug\net8.0\condicionalLamparitas.runtimeconfig.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\condicionalLamparitas\condicionalLamparitas\bin\Debug\net8.0\condicionalLamparitas.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\condicionalLamparitas\condicionalLamparitas\bin\Debug\net8.0\condicionalLamparitas.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\condicionalLamparitas\condicionalLamparitas\obj\Debug\net8.0\condicionalLamparitas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alberto\Desktop\pas1317\ejercicios\condicionalLamparitas\condicionalLamparitas\obj\Debug\net8.0\condicionalLamparitas.AssemblyInfoInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\condicionalLamparitas\condicionalLamparitas\obj\Debug\net8.0\condicionalLamparitas.AssemblyInfo.cs
+C:\Users\alberto\Desktop\pas1317\ejercicios\condicionalLamparitas\condicionalLamparitas\obj\Debug\net8.0\condicionalLamparitas.csproj.CoreCompileInputs.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\condicionalLamparitas\condicionalLamparitas\obj\Debug\net8.0\condicionalLamparitas.sourcelink.json
+C:\Users\alberto\Desktop\pas1317\ejercicios\condicionalLamparitas\condicionalLamparitas\obj\Debug\net8.0\condicionalLamparitas.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\condicionalLamparitas\condicionalLamparitas\obj\Debug\net8.0\refint\condicionalLamparitas.dll
+C:\Users\alberto\Desktop\pas1317\ejercicios\condicionalLamparitas\condicionalLamparitas\obj\Debug\net8.0\condicionalLamparitas.pdb
+C:\Users\alberto\Desktop\pas1317\ejercicios\condicionalLamparitas\condicionalLamparitas\obj\Debug\net8.0\condicionalLamparitas.genruntimeconfig.cache
+C:\Users\alberto\Desktop\pas1317\ejercicios\condicionalLamparitas\condicionalLamparitas\obj\Debug\net8.0\ref\condicionalLamparitas.dll
